@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Garage</string>
+
+    <string name="action_open">Open</string>
+    <string name="action_close">Close</string>
+    <string name="action_stop">Stop</string>
+    <string name="confirm">Tap again</string>
+    <string name="retry">Retry</string>
+
+    <string name="state_open">Door is open</string>
+    <string name="state_closed">Door is closed</string>
+    <string name="state_opening">Opening…</string>
+    <string name="state_closing">Closing…</string>
+    <string name="state_other">Door: %1$s</string>
+    <string name="connecting">Connecting…</string>
+    <string name="error">%1$s</string>
+
+    <string name="not_set_up">Not set up.\nRun the adb setup command from the README.</string>
+    <string name="setup_saved">Garage configured</string>
+    <string name="setup_invalid">Setup needs url, token and a cover.* entity</string>
+</resources>

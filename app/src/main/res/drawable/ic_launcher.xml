@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Garage door: a house outline with horizontal door panels. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="48dp"
+        android:height="48dp"
+        android:viewportWidth="48"
+        android:viewportHeight="48">
+    <path android:fillColor="#1E5AA8" android:pathData="M24,0a24,24 0,1 1,0 48a24,24 0,1 1,0 -48z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M24,10L38,19L38,37L34,37L34,22L14,22L14,37L10,37L10,19Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M16,24h16v3h-16z M16,28.5h16v3h-16z M16,33h16v3h-16z" />
+</vector>

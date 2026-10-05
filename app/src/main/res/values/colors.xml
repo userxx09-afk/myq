@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="open">#2E7D32</color>
+    <color name="close">#1E5AA8</color>
+    <color name="confirm">#C62828</color>
+    <color name="neutral">#555555</color>
+</resources>
